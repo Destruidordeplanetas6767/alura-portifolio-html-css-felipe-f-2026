@@ -1,1 +1,10 @@
-
+body{
+  background: #000000;
+  strong{
+    color: yellow;
+  }
+  h1{
+    color: yellow;
+    text-align: center;
+  }
+}
